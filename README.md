@@ -49,6 +49,7 @@ pyinstaller --onefile --windowed --name=CompactadorPDF \
   --add-data "sua imagem;." \
   script.py
 
-Essa etapa de transformar em app, é a mais dificil do programa,qualquer dúvida mande para mim,ou busque na web que tem solução ...
+Essa etapa de transformar em app, é a mais dificil do programa ao meu ver,qualquer dúvida mande para mim,ou busque na web que tem solução...
+Até a Próxima!!
 
 
