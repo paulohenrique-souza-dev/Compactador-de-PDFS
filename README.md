@@ -1,6 +1,6 @@
 # 📦 Compactador de PDFs
 
-## ✨ Descrição
+##  Descrição
 
 O **Compactador de PDFs** é uma aplicação desenvolvida para comprimir arquivos PDF, tornando-os mais leves e fáceis de compartilhar. Ideal para quem precisa enviar documentos por e-mail ou armazená-los sem ocupar muito espaço.
 
@@ -41,7 +41,7 @@ Após instalar as bibliotecas confirme o caminho da imagem e demais arquivos....
 Teste o programa rodando local,se estiver tudo ok,sem erros ,ai sim vamos para a última etapa que é transformar em um aplicativo.
 
 ---
-## Transformando em App
+## 📦  Transformando em App
 No seu terminal digite:
 
 pyinstaller --onefile --windowed --name=CompactadorPDF \
