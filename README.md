@@ -27,10 +27,12 @@ git clone https://github.com/paulohenrique-souza-dev/Compactador-de-PDFS.git
 
 
 Após isso crie a venv com :python -m venv venv
+
 Ative a venv com :venv/scripts/activate
 
 --- 
 Instale as dependências:
+
 pip install -r requirements.txt  
 
 ---
