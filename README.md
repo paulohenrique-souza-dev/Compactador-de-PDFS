@@ -11,16 +11,18 @@ O **Compactador de PDFs** é uma aplicação desenvolvida para comprimir arquivo
 - **Python**: Linguagem principal para o desenvolvimento da aplicação.
 - **Tkinter**: Interface gráfica para facilitar a interação do usuário.
 - **Ghostscript**: Utilizado para compressão eficiente de PDFs.
-   - **Pyinstaller**: Utilizado para empacotar os arquivos necessários e transformar em um app.
+- **Pyinstaller**: Utilizado para empacotar os arquivos necessários e transformar em um app.
 
 ---
-
+---
 ## 🚀 Como Usar
 
 1. Clone este repositório:
-
+ ---
+ digite no terminal do vs code,ou outro editor de preferência:
 git clone https://github.com/paulohenrique-souza-dev/Compactador-de-PDFS.git
-digite no terminal do vs code,ou outro editor de preferência.
+
+---
 
 Após isso crie a venv com :python -m venv venv
 Ative a venv com :venv/scripts/activate
