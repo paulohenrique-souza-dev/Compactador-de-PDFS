@@ -18,17 +18,20 @@ O **Compactador de PDFs** é uma aplicação desenvolvida para comprimir arquivo
 ## 🚀 Como Usar
 
 1. Clone este repositório:
- ---
+
  digite no terminal do vs code,ou outro editor de preferência:
 git clone https://github.com/paulohenrique-souza-dev/Compactador-de-PDFS.git
 
----
+
+
 Após isso crie a venv com :python -m venv venv
 Ative a venv com :venv/scripts/activate
---- 
+
+ 
 Instale as dependências:
 pip install -r requirements.txt  
----
+
+
 Após instalar as bibliotecas confirme o caminho da imagem e demais arquivos....
 
 Teste o programa rodando local,se estiver tudo ok,sem erros ,ai sim vamos para a última etapa que é transformar em um aplicativo.
