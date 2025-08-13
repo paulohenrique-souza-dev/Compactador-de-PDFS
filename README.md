@@ -42,6 +42,13 @@ Teste o programa rodando local,se estiver tudo ok,sem erros ,ai sim vamos para a
 
 ---
 ## Transformando em App
+No seu terminal digite:
 
+pyinstaller --onefile --windowed --name=CompactadorPDF \
+  --add-binary "gswin64c.exe;." \
+  --add-data "sua imagem;." \
+  script.py
+
+Essa etapa de transformar em app, é a mais dificil do programa,qualquer dúvida mande para mim,ou busque na web que tem solução ...
 
 
