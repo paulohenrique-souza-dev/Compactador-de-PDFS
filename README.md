@@ -29,7 +29,3 @@ Editar
 pip install -r requirements.txt
 Execute o script:
 
-bash
-Copiar
-Editar
-python script.py
