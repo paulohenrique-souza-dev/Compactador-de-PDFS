@@ -40,4 +40,8 @@ Após instalar as bibliotecas confirme o caminho da imagem e demais arquivos....
 
 Teste o programa rodando local,se estiver tudo ok,sem erros ,ai sim vamos para a última etapa que é transformar em um aplicativo.
 
+---
+## Transformando em App
+
+
 
